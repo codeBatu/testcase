@@ -1,9 +1,8 @@
 import {useState} from 'react';
 import './style.css'
-import "./kampanya.css";
 import IconsaxLinearAddCircle from '../img/iconsax-linear-addcircle.svg';
-import { KampanyaPopup } from './KampanyaPopup';
-import { KampanyaEkle } from './KampanyaEkle';
+import { KampanyaPopup } from './components/KampanyaPopup';
+import { KampanyaEkle } from './components/KampanyaEkle';
 const Box = () => {
   const [isDialogOpen, setIsDialogOpen] = useState(false);
   const [isDialogOpen2, setIsDialogOpen2] = useState(false);

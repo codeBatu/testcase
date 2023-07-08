@@ -1,5 +1,5 @@
 import React from "react";
-import "./kampanya.css";
+import "./kampanya.css"
 
 export const KampanyaPopup = () => {
   return (
@@ -12,19 +12,19 @@ export const KampanyaPopup = () => {
           <div className="text-wrapper-3">Endüstri:</div>
           <div className="text-wrapper-3">Ürün Kapsamı:</div>
           <div className="frame-2">
-            <img className="img" alt="Iconsax linear clock" src={require('../img/4085ea86-28c1-42c1-ad8f-0d70d4279d3d.png')} />
+            <img className="img" alt="Iconsax linear clock" src={require('../../img/4085ea86-28c1-42c1-ad8f-0d70d4279d3d.png')} />
             <div className="div-wrapper">
               <div className="text-wrapper-2">Kampanya Süresi:</div>
             </div>
           </div>
           <div className="frame-2">
-            <img className="img" alt="Iconsax linear eye" src={require('../img/a9de0c9d-5980-4587-bb2e-7ac6a2bd08e4.png')} />
+            <img className="img" alt="Iconsax linear eye" src={require('../../img/a9de0c9d-5980-4587-bb2e-7ac6a2bd08e4.png')} />
             <div className="div-wrapper">
               <div className="text-wrapper-2">Görüntülenme</div>
             </div>
           </div>
           <div className="frame-2">
-            <img className="img" alt="Tabler click"src={require('../img/64f81722-9283-45b2-b960-030c512213f5.png')} />
+            <img className="img" alt="Tabler click"src={require('../../img/64f81722-9283-45b2-b960-030c512213f5.png')} />
             <div className="div-wrapper">
               <div className="text-wrapper-2">Tıklanma Sayısı</div>
             </div>
