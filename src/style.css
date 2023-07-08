@@ -1,0 +1,1220 @@
+.web-kampanyalar {
+    background-color: #f2f4f8;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .web-kampanyalar .div-2 {
+    background-color: #f2f4f8;
+    border: 1px none;
+    height: 1024px;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .web-kampanyalar .overlap {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: var(--gray-09);
+    border-radius: 8px;
+    height: 906px;
+    left: 222px;
+    position: absolute;
+    top: 96px;
+    width: 996px;
+  }
+  
+  .web-kampanyalar .frame-7 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    left: 15px;
+    position: absolute;
+    top: 15px;
+    width: fit-content;
+  }
+  
+  .web-kampanyalar .frame-8 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .web-kampanyalar .text-wrapper-2 {
+    color: var(--gray-01);
+    font-family: var(--header-16-bold-font-family);
+    font-size: var(--header-16-bold-font-size);
+    font-style: var(--header-16-bold-font-style);
+    font-weight: var(--header-16-bold-font-weight);
+    letter-spacing: var(--header-16-bold-letter-spacing);
+    line-height: var(--header-16-bold-line-height);
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .web-kampanyalar .text-wrapper-3 {
+    color: var(--gray-03);
+    font-family: var(--text-12-font-family);
+    font-size: var(--text-12-font-size);
+    font-style: var(--text-12-font-style);
+    font-weight: var(--text-12-font-weight);
+    letter-spacing: var(--text-12-letter-spacing);
+    line-height: var(--text-12-line-height);
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .web-kampanyalar .frame-9 {
+    align-items: center;
+    border: 1px solid;
+    border-color: var(--primaryblue);
+    border-radius: 19.83px;
+    display: flex;
+    gap: 8px;
+    padding: 6px 24px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .web-kampanyalar .iconsax-linear-4 {
+    height: 20px;
+    min-width: 20px;
+    position: relative;
+  }
+  
+  .web-kampanyalar .text-wrapper-4 {
+    color: var(--primaryblue);
+    font-family: "Inter-Medium", Helvetica;
+    font-size: 11.6px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .web-kampanyalar .frame-10 {
+    align-items: center;
+    border: 1px solid;
+    border-color: var(--primaryblue);
+    border-radius: 99px;
+    display: flex;
+    gap: 8px;
+    left: 874px;
+    padding: 6px 12px;
+    position: absolute;
+    top: 206px;
+    width: fit-content;
+  }
+  
+  .web-kampanyalar .text-wrapper-5 {
+    color: var(--primaryblue);
+    font-family: var(--text-12-font-family);
+    font-size: var(--text-12-font-size);
+    font-style: var(--text-12-font-style);
+    font-weight: var(--text-12-font-weight);
+    letter-spacing: var(--text-12-letter-spacing);
+    line-height: var(--text-12-line-height);
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .web-kampanyalar .frame-11 {
+    align-items: center;
+    border: 1px solid;
+    border-color: var(--primaryblue);
+    border-radius: 99px;
+    display: flex;
+    gap: 8px;
+    left: 874px;
+    padding: 6px 12px;
+    position: absolute;
+    top: 436px;
+    width: fit-content;
+  }
+  
+  .web-kampanyalar .frame-12 {
+    align-items: center;
+    border: 1px solid;
+    border-color: var(--primaryblue);
+    border-radius: 99px;
+    display: flex;
+    gap: 8px;
+    left: 874px;
+    padding: 6px 12px;
+    position: absolute;
+    top: 666px;
+    width: fit-content;
+  }
+  
+  .web-kampanyalar .frame-13 {
+    align-items: center;
+    border: 1px solid;
+    border-color: var(--primaryblue);
+    border-radius: 99px;
+    display: flex;
+    gap: 8px;
+    left: 874px;
+    padding: 6px 12px;
+    position: absolute;
+    top: 252px;
+    width: fit-content;
+  }
+  
+  .web-kampanyalar .frame-14 {
+    align-items: center;
+    border: 1px solid;
+    border-color: var(--primaryblue);
+    border-radius: 99px;
+    display: flex;
+    gap: 8px;
+    left: 874px;
+    padding: 6px 12px;
+    position: absolute;
+    top: 482px;
+    width: fit-content;
+  }
+  
+  .web-kampanyalar .frame-15 {
+    align-items: center;
+    border: 1px solid;
+    border-color: var(--primaryblue);
+    border-radius: 99px;
+    display: flex;
+    gap: 8px;
+    left: 874px;
+    padding: 6px 12px;
+    position: absolute;
+    top: 712px;
+    width: fit-content;
+  }
+  
+  .web-kampanyalar .frame-16 {
+    align-items: center;
+    border: 1px solid;
+    border-color: var(--primaryblue);
+    border-radius: 99px;
+    display: flex;
+    gap: 8px;
+    left: 874px;
+    padding: 6px 12px;
+    position: absolute;
+    top: 298px;
+    width: fit-content;
+  }
+  
+  .web-kampanyalar .frame-17 {
+    align-items: center;
+    border: 1px solid;
+    border-color: var(--primaryblue);
+    border-radius: 99px;
+    display: flex;
+    gap: 8px;
+    left: 874px;
+    padding: 6px 12px;
+    position: absolute;
+    top: 528px;
+    width: fit-content;
+  }
+  
+  .web-kampanyalar .frame-18 {
+    align-items: center;
+    border: 1px solid;
+    border-color: var(--primaryblue);
+    border-radius: 99px;
+    display: flex;
+    gap: 8px;
+    left: 874px;
+    padding: 6px 12px;
+    position: absolute;
+    top: 758px;
+    width: fit-content;
+  }
+  
+  .web-kampanyalar .frame-19 {
+    align-items: center;
+    border: 1px solid;
+    border-color: var(--primaryblue);
+    border-radius: 99px;
+    display: flex;
+    gap: 8px;
+    left: 874px;
+    padding: 6px 12px;
+    position: absolute;
+    top: 344px;
+    width: fit-content;
+  }
+  
+  .web-kampanyalar .frame-20 {
+    align-items: center;
+    border: 1px solid;
+    border-color: var(--primaryblue);
+    border-radius: 99px;
+    display: flex;
+    gap: 8px;
+    left: 874px;
+    padding: 6px 12px;
+    position: absolute;
+    top: 574px;
+    width: fit-content;
+  }
+  
+  .web-kampanyalar .frame-21 {
+    align-items: center;
+    border: 1px solid;
+    border-color: var(--primaryblue);
+    border-radius: 99px;
+    display: flex;
+    gap: 8px;
+    left: 874px;
+    padding: 6px 12px;
+    position: absolute;
+    top: 390px;
+    width: fit-content;
+  }
+  
+  .web-kampanyalar .frame-22 {
+    align-items: center;
+    border: 1px solid;
+    border-color: var(--primaryblue);
+    border-radius: 99px;
+    display: flex;
+    gap: 8px;
+    left: 874px;
+    padding: 6px 12px;
+    position: absolute;
+    top: 620px;
+    width: fit-content;
+  }
+  
+  .web-kampanyalar .vector-2 {
+    height: 1px;
+    left: 15px;
+    object-fit: cover;
+    position: absolute;
+    top: 132px;
+    width: 964px;
+  }
+  
+  .web-kampanyalar .vector-3 {
+    height: 1px;
+    left: 15px;
+    object-fit: cover;
+    position: absolute;
+    top: 190px;
+    width: 964px;
+  }
+  
+  .web-kampanyalar .text-wrapper-6 {
+    color: var(--gray-04);
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 12px;
+    font-weight: 600;
+    height: 18px;
+    left: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 155px;
+  }
+  
+  .web-kampanyalar .text-wrapper-7 {
+    color: var(--gray-04);
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 12px;
+    font-weight: 600;
+    height: 18px;
+    left: 263px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 155px;
+  }
+  
+  .web-kampanyalar .text-wrapper-8 {
+    color: var(--gray-04);
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 12px;
+    font-weight: 600;
+    height: 18px;
+    left: 451px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 155px;
+  }
+  
+  .web-kampanyalar .text-wrapper-9 {
+    color: var(--gray-04);
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 12px;
+    font-weight: 600;
+    height: 18px;
+    left: 649px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 155px;
+  }
+  
+  .web-kampanyalar .text-wrapper-10 {
+    color: #000000;
+    font-family: var(--text-14-font-family);
+    font-size: var(--text-14-font-size);
+    font-style: var(--text-14-font-style);
+    font-weight: var(--text-14-font-weight);
+    height: 21px;
+    left: 15px;
+    letter-spacing: var(--text-14-letter-spacing);
+    line-height: var(--text-14-line-height);
+    position: absolute;
+    top: 209px;
+    white-space: nowrap;
+  }
+  
+  .web-kampanyalar .text-wrapper-11 {
+    color: #000000;
+    font-family: var(--text-14-font-family);
+    font-size: var(--text-14-font-size);
+    font-style: var(--text-14-font-style);
+    font-weight: var(--text-14-font-weight);
+    height: 21px;
+    left: 15px;
+    letter-spacing: var(--text-14-letter-spacing);
+    line-height: var(--text-14-line-height);
+    position: absolute;
+    top: 439px;
+    white-space: nowrap;
+  }
+  
+  .web-kampanyalar .text-wrapper-12 {
+    color: #000000;
+    font-family: var(--text-14-font-family);
+    font-size: var(--text-14-font-size);
+    font-style: var(--text-14-font-style);
+    font-weight: var(--text-14-font-weight);
+    height: 21px;
+    left: 15px;
+    letter-spacing: var(--text-14-letter-spacing);
+    line-height: var(--text-14-line-height);
+    position: absolute;
+    top: 669px;
+    white-space: nowrap;
+  }
+  
+  .web-kampanyalar .text-wrapper-13 {
+    color: #000000;
+    font-family: var(--text-14-font-family);
+    font-size: var(--text-14-font-size);
+    font-style: var(--text-14-font-style);
+    font-weight: var(--text-14-font-weight);
+    height: 21px;
+    left: 15px;
+    letter-spacing: var(--text-14-letter-spacing);
+    line-height: var(--text-14-line-height);
+    position: absolute;
+    top: 255px;
+    white-space: nowrap;
+  }
+  
+  .web-kampanyalar .text-wrapper-14 {
+    color: #000000;
+    font-family: var(--text-14-font-family);
+    font-size: var(--text-14-font-size);
+    font-style: var(--text-14-font-style);
+    font-weight: var(--text-14-font-weight);
+    height: 21px;
+    left: 15px;
+    letter-spacing: var(--text-14-letter-spacing);
+    line-height: var(--text-14-line-height);
+    position: absolute;
+    top: 485px;
+    white-space: nowrap;
+  }
+  
+  .web-kampanyalar .text-wrapper-15 {
+    color: #000000;
+    font-family: var(--text-14-font-family);
+    font-size: var(--text-14-font-size);
+    font-style: var(--text-14-font-style);
+    font-weight: var(--text-14-font-weight);
+    height: 21px;
+    left: 15px;
+    letter-spacing: var(--text-14-letter-spacing);
+    line-height: var(--text-14-line-height);
+    position: absolute;
+    top: 715px;
+    white-space: nowrap;
+  }
+  
+  .web-kampanyalar .text-wrapper-16 {
+    color: #000000;
+    font-family: var(--text-14-font-family);
+    font-size: var(--text-14-font-size);
+    font-style: var(--text-14-font-style);
+    font-weight: var(--text-14-font-weight);
+    height: 21px;
+    left: 15px;
+    letter-spacing: var(--text-14-letter-spacing);
+    line-height: var(--text-14-line-height);
+    position: absolute;
+    top: 301px;
+    white-space: nowrap;
+  }
+  
+  .web-kampanyalar .text-wrapper-17 {
+    color: #000000;
+    font-family: var(--text-14-font-family);
+    font-size: var(--text-14-font-size);
+    font-style: var(--text-14-font-style);
+    font-weight: var(--text-14-font-weight);
+    height: 21px;
+    left: 15px;
+    letter-spacing: var(--text-14-letter-spacing);
+    line-height: var(--text-14-line-height);
+    position: absolute;
+    top: 531px;
+    white-space: nowrap;
+  }
+  
+  .web-kampanyalar .text-wrapper-18 {
+    color: #000000;
+    font-family: var(--text-14-font-family);
+    font-size: var(--text-14-font-size);
+    font-style: var(--text-14-font-style);
+    font-weight: var(--text-14-font-weight);
+    height: 21px;
+    left: 15px;
+    letter-spacing: var(--text-14-letter-spacing);
+    line-height: var(--text-14-line-height);
+    position: absolute;
+    top: 761px;
+    white-space: nowrap;
+  }
+  
+  .web-kampanyalar .text-wrapper-19 {
+    color: #000000;
+    font-family: var(--text-14-font-family);
+    font-size: var(--text-14-font-size);
+    font-style: var(--text-14-font-style);
+    font-weight: var(--text-14-font-weight);
+    height: 21px;
+    left: 15px;
+    letter-spacing: var(--text-14-letter-spacing);
+    line-height: var(--text-14-line-height);
+    position: absolute;
+    top: 347px;
+    white-space: nowrap;
+  }
+  
+  .web-kampanyalar .text-wrapper-20 {
+    color: #000000;
+    font-family: var(--text-14-font-family);
+    font-size: var(--text-14-font-size);
+    font-style: var(--text-14-font-style);
+    font-weight: var(--text-14-font-weight);
+    height: 21px;
+    left: 15px;
+    letter-spacing: var(--text-14-letter-spacing);
+    line-height: var(--text-14-line-height);
+    position: absolute;
+    top: 577px;
+    white-space: nowrap;
+  }
+  
+  .web-kampanyalar .text-wrapper-21 {
+    color: #000000;
+    font-family: var(--text-14-font-family);
+    font-size: var(--text-14-font-size);
+    font-style: var(--text-14-font-style);
+    font-weight: var(--text-14-font-weight);
+    height: 21px;
+    left: 15px;
+    letter-spacing: var(--text-14-letter-spacing);
+    line-height: var(--text-14-line-height);
+    position: absolute;
+    top: 393px;
+    white-space: nowrap;
+  }
+  
+  .web-kampanyalar .text-wrapper-22 {
+    color: #000000;
+    font-family: var(--text-14-font-family);
+    font-size: var(--text-14-font-size);
+    font-style: var(--text-14-font-style);
+    font-weight: var(--text-14-font-weight);
+    height: 21px;
+    left: 15px;
+    letter-spacing: var(--text-14-letter-spacing);
+    line-height: var(--text-14-line-height);
+    position: absolute;
+    top: 623px;
+    white-space: nowrap;
+  }
+  
+  .web-kampanyalar .text-wrapper-23 {
+    color: #000000;
+    font-family: var(--text-14-font-family);
+    font-size: var(--text-14-font-size);
+    font-style: var(--text-14-font-style);
+    font-weight: var(--text-14-font-weight);
+    height: 21px;
+    left: 263px;
+    letter-spacing: var(--text-14-letter-spacing);
+    line-height: var(--text-14-line-height);
+    position: absolute;
+    top: 209px;
+    white-space: nowrap;
+  }
+  
+  .web-kampanyalar .text-wrapper-24 {
+    color: #000000;
+    font-family: var(--text-14-font-family);
+    font-size: var(--text-14-font-size);
+    font-style: var(--text-14-font-style);
+    font-weight: var(--text-14-font-weight);
+    height: 21px;
+    left: 263px;
+    letter-spacing: var(--text-14-letter-spacing);
+    line-height: var(--text-14-line-height);
+    position: absolute;
+    top: 439px;
+    white-space: nowrap;
+  }
+  
+  .web-kampanyalar .text-wrapper-25 {
+    color: #000000;
+    font-family: var(--text-14-font-family);
+    font-size: var(--text-14-font-size);
+    font-style: var(--text-14-font-style);
+    font-weight: var(--text-14-font-weight);
+    height: 21px;
+    left: 263px;
+    letter-spacing: var(--text-14-letter-spacing);
+    line-height: var(--text-14-line-height);
+    position: absolute;
+    top: 669px;
+    white-space: nowrap;
+  }
+  
+  .web-kampanyalar .text-wrapper-26 {
+    color: #000000;
+    font-family: var(--text-14-font-family);
+    font-size: var(--text-14-font-size);
+    font-style: var(--text-14-font-style);
+    font-weight: var(--text-14-font-weight);
+    height: 21px;
+    left: 263px;
+    letter-spacing: var(--text-14-letter-spacing);
+    line-height: var(--text-14-line-height);
+    position: absolute;
+    top: 255px;
+    white-space: nowrap;
+  }
+  
+  .web-kampanyalar .text-wrapper-27 {
+    color: #000000;
+    font-family: var(--text-14-font-family);
+    font-size: var(--text-14-font-size);
+    font-style: var(--text-14-font-style);
+    font-weight: var(--text-14-font-weight);
+    height: 21px;
+    left: 263px;
+    letter-spacing: var(--text-14-letter-spacing);
+    line-height: var(--text-14-line-height);
+    position: absolute;
+    top: 485px;
+    white-space: nowrap;
+  }
+  
+  .web-kampanyalar .text-wrapper-28 {
+    color: #000000;
+    font-family: var(--text-14-font-family);
+    font-size: var(--text-14-font-size);
+    font-style: var(--text-14-font-style);
+    font-weight: var(--text-14-font-weight);
+    height: 21px;
+    left: 263px;
+    letter-spacing: var(--text-14-letter-spacing);
+    line-height: var(--text-14-line-height);
+    position: absolute;
+    top: 715px;
+    white-space: nowrap;
+  }
+  
+  .web-kampanyalar .text-wrapper-29 {
+    color: #000000;
+    font-family: var(--text-14-font-family);
+    font-size: var(--text-14-font-size);
+    font-style: var(--text-14-font-style);
+    font-weight: var(--text-14-font-weight);
+    height: 21px;
+    left: 263px;
+    letter-spacing: var(--text-14-letter-spacing);
+    line-height: var(--text-14-line-height);
+    position: absolute;
+    top: 301px;
+    white-space: nowrap;
+  }
+  
+  .web-kampanyalar .text-wrapper-30 {
+    color: #000000;
+    font-family: var(--text-14-font-family);
+    font-size: var(--text-14-font-size);
+    font-style: var(--text-14-font-style);
+    font-weight: var(--text-14-font-weight);
+    height: 21px;
+    left: 263px;
+    letter-spacing: var(--text-14-letter-spacing);
+    line-height: var(--text-14-line-height);
+    position: absolute;
+    top: 531px;
+    white-space: nowrap;
+  }
+  
+  .web-kampanyalar .text-wrapper-31 {
+    color: #000000;
+    font-family: var(--text-14-font-family);
+    font-size: var(--text-14-font-size);
+    font-style: var(--text-14-font-style);
+    font-weight: var(--text-14-font-weight);
+    height: 21px;
+    left: 263px;
+    letter-spacing: var(--text-14-letter-spacing);
+    line-height: var(--text-14-line-height);
+    position: absolute;
+    top: 761px;
+    white-space: nowrap;
+  }
+  
+  .web-kampanyalar .text-wrapper-32 {
+    color: #000000;
+    font-family: var(--text-14-font-family);
+    font-size: var(--text-14-font-size);
+    font-style: var(--text-14-font-style);
+    font-weight: var(--text-14-font-weight);
+    height: 21px;
+    left: 263px;
+    letter-spacing: var(--text-14-letter-spacing);
+    line-height: var(--text-14-line-height);
+    position: absolute;
+    top: 347px;
+    white-space: nowrap;
+  }
+  
+  .web-kampanyalar .text-wrapper-33 {
+    color: #000000;
+    font-family: var(--text-14-font-family);
+    font-size: var(--text-14-font-size);
+    font-style: var(--text-14-font-style);
+    font-weight: var(--text-14-font-weight);
+    height: 21px;
+    left: 263px;
+    letter-spacing: var(--text-14-letter-spacing);
+    line-height: var(--text-14-line-height);
+    position: absolute;
+    top: 577px;
+    white-space: nowrap;
+  }
+  
+  .web-kampanyalar .text-wrapper-34 {
+    color: #000000;
+    font-family: var(--text-14-font-family);
+    font-size: var(--text-14-font-size);
+    font-style: var(--text-14-font-style);
+    font-weight: var(--text-14-font-weight);
+    height: 21px;
+    left: 263px;
+    letter-spacing: var(--text-14-letter-spacing);
+    line-height: var(--text-14-line-height);
+    position: absolute;
+    top: 393px;
+    white-space: nowrap;
+  }
+  
+  .web-kampanyalar .text-wrapper-35 {
+    color: #000000;
+    font-family: var(--text-14-font-family);
+    font-size: var(--text-14-font-size);
+    font-style: var(--text-14-font-style);
+    font-weight: var(--text-14-font-weight);
+    height: 21px;
+    left: 263px;
+    letter-spacing: var(--text-14-letter-spacing);
+    line-height: var(--text-14-line-height);
+    position: absolute;
+    top: 623px;
+    white-space: nowrap;
+  }
+  
+  .web-kampanyalar .text-wrapper-36 {
+    color: #000000;
+    font-family: var(--text-14-font-family);
+    font-size: var(--text-14-font-size);
+    font-style: var(--text-14-font-style);
+    font-weight: var(--text-14-font-weight);
+    height: 21px;
+    left: 451px;
+    letter-spacing: var(--text-14-letter-spacing);
+    line-height: var(--text-14-line-height);
+    position: absolute;
+    top: 209px;
+    white-space: nowrap;
+  }
+  
+  .web-kampanyalar .text-wrapper-37 {
+    color: #000000;
+    font-family: var(--text-14-font-family);
+    font-size: var(--text-14-font-size);
+    font-style: var(--text-14-font-style);
+    font-weight: var(--text-14-font-weight);
+    height: 21px;
+    left: 451px;
+    letter-spacing: var(--text-14-letter-spacing);
+    line-height: var(--text-14-line-height);
+    position: absolute;
+    top: 439px;
+    white-space: nowrap;
+  }
+  
+  .web-kampanyalar .text-wrapper-38 {
+    color: #000000;
+    font-family: var(--text-14-font-family);
+    font-size: var(--text-14-font-size);
+    font-style: var(--text-14-font-style);
+    font-weight: var(--text-14-font-weight);
+    height: 21px;
+    left: 451px;
+    letter-spacing: var(--text-14-letter-spacing);
+    line-height: var(--text-14-line-height);
+    position: absolute;
+    top: 669px;
+    white-space: nowrap;
+  }
+  
+  .web-kampanyalar .text-wrapper-39 {
+    color: #000000;
+    font-family: var(--text-14-font-family);
+    font-size: var(--text-14-font-size);
+    font-style: var(--text-14-font-style);
+    font-weight: var(--text-14-font-weight);
+    height: 21px;
+    left: 451px;
+    letter-spacing: var(--text-14-letter-spacing);
+    line-height: var(--text-14-line-height);
+    position: absolute;
+    top: 255px;
+    white-space: nowrap;
+  }
+  
+  .web-kampanyalar .text-wrapper-40 {
+    color: #000000;
+    font-family: var(--text-14-font-family);
+    font-size: var(--text-14-font-size);
+    font-style: var(--text-14-font-style);
+    font-weight: var(--text-14-font-weight);
+    height: 21px;
+    left: 451px;
+    letter-spacing: var(--text-14-letter-spacing);
+    line-height: var(--text-14-line-height);
+    position: absolute;
+    top: 485px;
+    white-space: nowrap;
+  }
+  
+  .web-kampanyalar .text-wrapper-41 {
+    color: #000000;
+    font-family: var(--text-14-font-family);
+    font-size: var(--text-14-font-size);
+    font-style: var(--text-14-font-style);
+    font-weight: var(--text-14-font-weight);
+    height: 21px;
+    left: 451px;
+    letter-spacing: var(--text-14-letter-spacing);
+    line-height: var(--text-14-line-height);
+    position: absolute;
+    top: 715px;
+    white-space: nowrap;
+  }
+  
+  .web-kampanyalar .text-wrapper-42 {
+    color: #000000;
+    font-family: var(--text-14-font-family);
+    font-size: var(--text-14-font-size);
+    font-style: var(--text-14-font-style);
+    font-weight: var(--text-14-font-weight);
+    height: 21px;
+    left: 451px;
+    letter-spacing: var(--text-14-letter-spacing);
+    line-height: var(--text-14-line-height);
+    position: absolute;
+    top: 301px;
+    white-space: nowrap;
+  }
+  
+  .web-kampanyalar .text-wrapper-43 {
+    color: #000000;
+    font-family: var(--text-14-font-family);
+    font-size: var(--text-14-font-size);
+    font-style: var(--text-14-font-style);
+    font-weight: var(--text-14-font-weight);
+    height: 21px;
+    left: 451px;
+    letter-spacing: var(--text-14-letter-spacing);
+    line-height: var(--text-14-line-height);
+    position: absolute;
+    top: 531px;
+    white-space: nowrap;
+  }
+  
+  .web-kampanyalar .text-wrapper-44 {
+    color: #000000;
+    font-family: var(--text-14-font-family);
+    font-size: var(--text-14-font-size);
+    font-style: var(--text-14-font-style);
+    font-weight: var(--text-14-font-weight);
+    height: 21px;
+    left: 451px;
+    letter-spacing: var(--text-14-letter-spacing);
+    line-height: var(--text-14-line-height);
+    position: absolute;
+    top: 761px;
+    white-space: nowrap;
+  }
+  
+  .web-kampanyalar .text-wrapper-45 {
+    color: #000000;
+    font-family: var(--text-14-font-family);
+    font-size: var(--text-14-font-size);
+    font-style: var(--text-14-font-style);
+    font-weight: var(--text-14-font-weight);
+    height: 21px;
+    left: 451px;
+    letter-spacing: var(--text-14-letter-spacing);
+    line-height: var(--text-14-line-height);
+    position: absolute;
+    top: 347px;
+    white-space: nowrap;
+  }
+  
+  .web-kampanyalar .text-wrapper-46 {
+    color: #000000;
+    font-family: var(--text-14-font-family);
+    font-size: var(--text-14-font-size);
+    font-style: var(--text-14-font-style);
+    font-weight: var(--text-14-font-weight);
+    height: 21px;
+    left: 451px;
+    letter-spacing: var(--text-14-letter-spacing);
+    line-height: var(--text-14-line-height);
+    position: absolute;
+    top: 577px;
+    white-space: nowrap;
+  }
+  
+  .web-kampanyalar .text-wrapper-47 {
+    color: #000000;
+    font-family: var(--text-14-font-family);
+    font-size: var(--text-14-font-size);
+    font-style: var(--text-14-font-style);
+    font-weight: var(--text-14-font-weight);
+    height: 21px;
+    left: 451px;
+    letter-spacing: var(--text-14-letter-spacing);
+    line-height: var(--text-14-line-height);
+    position: absolute;
+    top: 393px;
+    white-space: nowrap;
+  }
+  
+  .web-kampanyalar .text-wrapper-48 {
+    color: #000000;
+    font-family: var(--text-14-font-family);
+    font-size: var(--text-14-font-size);
+    font-style: var(--text-14-font-style);
+    font-weight: var(--text-14-font-weight);
+    height: 21px;
+    left: 451px;
+    letter-spacing: var(--text-14-letter-spacing);
+    line-height: var(--text-14-line-height);
+    position: absolute;
+    top: 623px;
+    white-space: nowrap;
+  }
+  
+  .web-kampanyalar .frame-23 {
+    background-color: #f1f1f1;
+    border-radius: 8px;
+    height: 32px;
+    left: 385px;
+    position: absolute;
+    top: 841px;
+    width: 224px;
+  }
+  
+  .web-kampanyalar .overlap-group {
+    background-color: #1976d2;
+    border-radius: 12px;
+    height: 28px;
+    left: 34px;
+    position: absolute;
+    top: 2px;
+    width: 28px;
+  }
+  
+  .web-kampanyalar .text-wrapper-49 {
+    color: var(--primarywhite);
+    font-family: var(--header-12-bold-font-family);
+    font-size: var(--header-12-bold-font-size);
+    font-style: var(--header-12-bold-font-style);
+    font-weight: var(--header-12-bold-font-weight);
+    left: 11px;
+    letter-spacing: var(--header-12-bold-letter-spacing);
+    line-height: var(--header-12-bold-line-height);
+    position: absolute;
+    text-align: center;
+    top: 5px;
+  }
+  
+  .web-kampanyalar .text-wrapper-50 {
+    color: var(--gray-03);
+    font-family: var(--header-12-bold-font-family);
+    font-size: var(--header-12-bold-font-size);
+    font-style: var(--header-12-bold-font-style);
+    font-weight: var(--header-12-bold-font-weight);
+    left: 76px;
+    letter-spacing: var(--header-12-bold-letter-spacing);
+    line-height: var(--header-12-bold-line-height);
+    position: absolute;
+    text-align: center;
+    top: 7px;
+  }
+  
+  .web-kampanyalar .text-wrapper-51 {
+    color: var(--gray-03);
+    font-family: var(--header-12-bold-font-family);
+    font-size: var(--header-12-bold-font-size);
+    font-style: var(--header-12-bold-font-style);
+    font-weight: var(--header-12-bold-font-weight);
+    left: 108px;
+    letter-spacing: var(--header-12-bold-letter-spacing);
+    line-height: var(--header-12-bold-line-height);
+    position: absolute;
+    text-align: center;
+    top: 7px;
+  }
+  
+  .web-kampanyalar .text-wrapper-52 {
+    color: var(--gray-03);
+    font-family: var(--header-12-bold-font-family);
+    font-size: var(--header-12-bold-font-size);
+    font-style: var(--header-12-bold-font-style);
+    font-weight: var(--header-12-bold-font-weight);
+    left: 140px;
+    letter-spacing: var(--header-12-bold-letter-spacing);
+    line-height: var(--header-12-bold-line-height);
+    position: absolute;
+    text-align: center;
+    top: 7px;
+  }
+  
+  .web-kampanyalar .text-wrapper-53 {
+    color: var(--gray-03);
+    font-family: var(--header-12-bold-font-family);
+    font-size: var(--header-12-bold-font-size);
+    font-style: var(--header-12-bold-font-style);
+    font-weight: var(--header-12-bold-font-weight);
+    left: 171px;
+    letter-spacing: var(--header-12-bold-letter-spacing);
+    line-height: var(--header-12-bold-line-height);
+    position: absolute;
+    text-align: center;
+    top: 7px;
+  }
+  
+  .web-kampanyalar .arrow-right {
+    height: 16px;
+    left: 8px;
+    position: absolute;
+    top: 8px;
+    transform: rotate(-180deg);
+    width: 16px;
+  }
+  
+  .web-kampanyalar .arrow-right-instance {
+    height: 16px !important;
+    left: 0 !important;
+    position: absolute !important;
+    top: 0 !important;
+    transform: rotate(180deg) !important;
+    width: 16px !important;
+  }
+  
+  .web-kampanyalar .arrow-right-wrapper {
+    height: 16px;
+    left: 200px;
+    position: absolute;
+    top: 8px;
+    width: 16px;
+  }
+  
+  .web-kampanyalar .icon-instance-node {
+    height: 16px !important;
+    left: 0 !important;
+    position: absolute !important;
+    top: 0 !important;
+    width: 16px !important;
+  }
+  
+  .web-kampanyalar .frame-24 {
+    align-items: center;
+    display: flex;
+    gap: 8px;
+    left: 649px;
+    position: absolute;
+    top: 209px;
+    width: fit-content;
+  }
+  
+  .web-kampanyalar .img-3 {
+    height: 24px;
+    min-width: 24px;
+    position: relative;
+  }
+  
+  .web-kampanyalar .frame-25 {
+    align-items: center;
+    display: flex;
+    gap: 8px;
+    left: 649px;
+    position: absolute;
+    top: 439px;
+    width: fit-content;
+  }
+  
+  .web-kampanyalar .frame-26 {
+    align-items: center;
+    display: flex;
+    gap: 8px;
+    left: 649px;
+    position: absolute;
+    top: 669px;
+    width: fit-content;
+  }
+  
+  .web-kampanyalar .frame-27 {
+    align-items: center;
+    display: flex;
+    gap: 8px;
+    left: 649px;
+    position: absolute;
+    top: 255px;
+    width: fit-content;
+  }
+  
+  .web-kampanyalar .frame-28 {
+    align-items: center;
+    display: flex;
+    gap: 8px;
+    left: 649px;
+    position: absolute;
+    top: 485px;
+    width: fit-content;
+  }
+  
+  .web-kampanyalar .frame-29 {
+    align-items: center;
+    display: flex;
+    gap: 8px;
+    left: 649px;
+    position: absolute;
+    top: 715px;
+    width: fit-content;
+  }
+  
+  .web-kampanyalar .frame-30 {
+    align-items: center;
+    display: flex;
+    gap: 8px;
+    left: 649px;
+    position: absolute;
+    top: 301px;
+    width: fit-content;
+  }
+  
+  .web-kampanyalar .frame-31 {
+    align-items: center;
+    display: flex;
+    gap: 8px;
+    left: 649px;
+    position: absolute;
+    top: 531px;
+    width: fit-content;
+  }
+  
+  .web-kampanyalar .frame-32 {
+    align-items: center;
+    display: flex;
+    gap: 8px;
+    left: 649px;
+    position: absolute;
+    top: 761px;
+    width: fit-content;
+  }
+  
+  .web-kampanyalar .frame-33 {
+    align-items: center;
+    display: flex;
+    gap: 8px;
+    left: 649px;
+    position: absolute;
+    top: 347px;
+    width: fit-content;
+  }
+  
+  .web-kampanyalar .frame-34 {
+    align-items: center;
+    display: flex;
+    gap: 8px;
+    left: 649px;
+    position: absolute;
+    top: 577px;
+    width: fit-content;
+  }
+  
+  .web-kampanyalar .frame-35 {
+    align-items: center;
+    display: flex;
+    gap: 8px;
+    left: 649px;
+    position: absolute;
+    top: 393px;
+    width: fit-content;
+  }
+  
+  .web-kampanyalar .frame-36 {
+    align-items: center;
+    display: flex;
+    gap: 8px;
+    left: 649px;
+    position: absolute;
+    top: 623px;
+    width: fit-content;
+  }
+  
+  .web-kampanyalar .website-header-instance {
+    left: 0 !important;
+    position: fixed !important;
+    top: 0 !important;
+  }
+  

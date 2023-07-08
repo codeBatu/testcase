@@ -1,0 +1,140 @@
+.kampanya-popup {
+    align-items: flex-start;
+    background-color: var(--primarywhite);
+    border: 1px solid;
+    border-color: var(--gray-09);
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    min-width: 334px;
+    padding: 16px;
+    position: relative;
+  }
+  
+  .kampanya-popup .text-wrapper {
+    color: var(--gray-01);
+    font-family: var(--header-16-bold-font-family);
+    font-size: var(--header-16-bold-font-size);
+    font-style: var(--header-16-bold-font-style);
+    font-weight: var(--header-16-bold-font-weight);
+    letter-spacing: var(--header-16-bold-letter-spacing);
+    line-height: var(--header-16-bold-line-height);
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .kampanya-popup .line {
+    align-self: stretch;
+    height: 1px;
+    min-width: 302px;
+    object-fit: cover;
+    position: relative;
+  }
+  
+  .kampanya-popup .frame {
+    align-items: flex-start;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    width: 302px;
+  }
+  
+  .kampanya-popup .div {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    justify-content: center;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .kampanya-popup .text-wrapper-2 {
+    color: var(--gray-03);
+    font-family: var(--text-12-font-family);
+    font-size: var(--text-12-font-size);
+    font-style: var(--text-12-font-style);
+    font-weight: var(--text-12-font-weight);
+    letter-spacing: var(--text-12-letter-spacing);
+    line-height: var(--text-12-line-height);
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .kampanya-popup .text-wrapper-3 {
+    color: var(--gray-03);
+    font-family: var(--text-12-font-family);
+    font-size: var(--text-12-font-size);
+    font-style: var(--text-12-font-style);
+    font-weight: var(--text-12-font-weight);
+    letter-spacing: var(--text-12-letter-spacing);
+    line-height: var(--text-12-line-height);
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .kampanya-popup .frame-2 {
+    align-items: center;
+    display: flex;
+    gap: 8px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .kampanya-popup .img {
+    height: 24px;
+    min-width: 24px;
+    position: relative;
+  }
+  
+  .kampanya-popup .div-wrapper {
+    align-items: flex-start;
+    display: flex;
+    gap: 8px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .kampanya-popup .frame-3 {
+    align-items: flex-end;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    height: 243px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .kampanya-popup .text-wrapper-4 {
+    color: var(--gray-01);
+    font-family: var(--header-13-bold-font-family);
+    font-size: var(--header-13-bold-font-size);
+    font-style: var(--header-13-bold-font-style);
+    font-weight: var(--header-13-bold-font-weight);
+    letter-spacing: var(--header-13-bold-letter-spacing);
+    line-height: var(--header-13-bold-line-height);
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .kampanya-popup .frame-4 {
+    align-items: flex-end;
+    display: flex;
+    gap: 128px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .kampanya-popup .frame-5 {
+    align-items: flex-start;
+    display: flex;
+    gap: 128px;
+    position: relative;
+    width: fit-content;
+  }
+  

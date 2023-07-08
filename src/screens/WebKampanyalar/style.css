@@ -1,0 +1,256 @@
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.nav {
+  display: flex;
+  max-width: 1440px;
+  height: 72px;
+  padding: 9px 120px;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.th.tabletitle {
+  padding-bottom: 157px;
+  margin: 150px;
+  justify-content: space-between;
+}
+
+.frame8 {
+  padding: 16px;
+  width: 386px;
+  height: 93px;
+  top: 112px;
+  left: 238px;
+  gap: 16px;
+}
+
+.divider {
+  padding-top: 24px;
+  padding-bottom: 24px;
+  height: 1px;
+  width: 964px;
+  
+}
+
+.divider::before {
+  content: "";
+  display: block;
+  height: 1px;
+  background-color: #D0D0D1;
+}
+
+.textdurum {
+  color: var(--gray-03, #434545);
+  font-family: Poppins;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%;
+}
+
+.frame24 {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  width: 96px;
+  height: 24px;
+}
+
+.frame9 {
+  display: flex;
+  padding: 6px 24px;
+  align-items: center;
+  gap: 8px;
+  border-radius: 19.829px;
+  height: 32px;
+  width: 160px;
+  border: 1px solid var(--primary-blue, #1976D2);
+}
+
+.text-wrapper-2 {
+  color: var(--gray-01, #141617);
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.text-wrapper-3 {
+  color: var(--gray-03, #434545);
+  font-family: Poppins;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%;
+}
+
+.text-wrapper-4 {
+  color: var(--primary-blue, #1976D2);
+  font-family: Inter;
+  font-size: 11.567px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.mytable {
+  width: 100%;
+  background-color: red;
+}
+
+.div-2 {
+  width: 996px;
+  height: 1056px;
+  flex-shrink: 0;
+  border-radius: 8px;
+  border: 1px solid var(--gray-09, #D0D0D1);
+  background: var(--primary-white, #FFF);
+}
+.detaybox{
+  height: 30px;
+  width: 60px;
+  display: inline-flex;
+  padding: 6px 12px;
+  border-radius: 99px;
+  gap: 8px;
+  align-items: center;
+  
+  border-radius: 10px;
+  text-align: center;
+  border: 1px solid var(--primary-blue, #1976D2);
+border: 1px solid var(--primary-blue, #1976D2);
+color: var(--primary-blue, #1976D2);
+
+/* Text/12 */
+font-family: Poppins;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%;
+}
+.containerpagi {
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center;
+}
+
+.pagination {
+  display: flex;
+  align-items: center;
+}
+
+/* Adjust the styles for the pagination elements as needed */
+.pagination span,
+.pagination img {
+  margin: 0 12.5px; /* Add 25px spacing between elements */
+  font-size: 16px;
+}
+
+.spanselect {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 28px;
+  height: 28px;
+  border-radius: 12px;
+  background: var(--primary-blue, #1976D2);
+}
+.dialog-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 9999;
+}
+
+.dialog {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  z-index: 10000;
+}
+
+.dialog h2 {
+  margin-top: 0;
+}
+
+.dialog p {
+  margin-bottom: 20px;
+}
+
+.dialog button {
+  padding: 8px 16px;
+  border: none;
+  background-color: #007bff;
+  color: #fff;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.dialog button:hover {
+  background-color: #0056b3;
+}
+.box {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.box .frame-wrapper {
+  border: 0px none;
+  height: 32px;
+  width: 160px;
+}
+
+.box .frame {
+  align-items: center;
+  border: 1px solid;
+  border-color: #1976d2;
+  border-radius: 19.83px;
+  display: flex;
+  gap: 8px;
+  left: 0;
+  padding: 6px 24px;
+  position: fixed;
+  top: 0;
+  width: fit-content;
+}
+
+.box .iconsax-linear {
+  height: 20px;
+  min-width: 20px;
+  position: relative;
+}
+
+.box .text-wrapper {
+  color: #1976d2;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 11.6px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+
